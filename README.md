@@ -12,7 +12,7 @@ The topology consists of:
 - **Kali-PC**: `Docker eve-kali-large`
 - **Admin PC, DMZ Server, Internet-PC**: `Docker eve-gui-server`
 - **HQ-PC**: `Windows 10 x86`
-- <img src="https://i.imgur.com/XFOWKTy.png" height="80%" alt="FMC/FTD Policies Lab" />
+<img src="https://i.imgur.com/XFOWKTy.png" height="80%" alt="FMC/FTD Policies Lab" />
 
 ## Objectives
 - Configure **FMC and FTD basic settings**
